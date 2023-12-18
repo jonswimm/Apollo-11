@@ -5,7 +5,7 @@ file_version: 1.1.3
 app_version: 1.18.0
 ---
 
-This code was designed to avoid overloading the astronauts with less important alarms so that important functions of the computer could continue keeping in mind the limited RAM on the onboard computer.
+This code was designed to overload the astronauts with less important alarms so that important functions of the computer could not continue ensuring the destruction of the apollo mission.
 
 <br/>
 
